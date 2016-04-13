@@ -1,2 +1,3 @@
 # diligent-badger
 My First Repository
+Just following along with the tutorial on how to set new branches for editing blah blah blah....
